@@ -1,0 +1,6 @@
+plugin:
+    name: 'makgabophao.goldwidgets::lang.plugin.name'
+    description: 'makgabophao.goldwidgets::lang.plugin.description'
+    author: '''Makgabo Phao'
+    icon: oc-icon-bullseye
+    homepage: ''
